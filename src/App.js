@@ -7,6 +7,8 @@ import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import About from "./components/About";
 import Contact from "./components/Contact";
 
+//optimised
+
 const AppLayout = () =>{
     return(
         <div className ="app">
