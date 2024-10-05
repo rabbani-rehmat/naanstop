@@ -1,0 +1,31 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "This is React tutorial",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "react",
+    "tutorial"
+  ],
+  "author": "Rabbani",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
